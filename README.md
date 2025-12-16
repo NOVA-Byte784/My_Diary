@@ -1,2 +1,1 @@
-# Java_learn(Project)
-以学习Java相关项目为导向
+# 主要记录日常学习和思考
