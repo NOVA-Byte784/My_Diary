@@ -6,7 +6,7 @@
 
 1. 为什么会有两个贡献者？
 
-<img src="assets/image-20251217124848052.png" alt="image-20251217124848052" style="zoom:50%;" />
+<img src="README.assets/image-20251217124848052.png" alt="image-20251217124848052" style="zoom:50%;" />
 
 即使是你（同一个操作者）在操作，但在 Git 的世界里，**“登录账号”**和**“提交时的签名”**是两码事。
 
